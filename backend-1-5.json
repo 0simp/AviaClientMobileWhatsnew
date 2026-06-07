@@ -1,0 +1,66 @@
+{
+    "entries":[
+        {
+            "date":"6 June, 2026",
+                "content":[
+                {"type":"h1","text":"Avia Client"},
+                {"type":"h1","text":"Mobile 1.5"},
+                { "type": "spacer" },
+                { "type": "h2", "text": "New" },
+                { "type": "spacer" },
+                {
+                    "type": "ul",
+                    "items": [
+                        "Added HideChatButtonsOnFocus plugin",
+                        "Added CollapseChannelName plugin",
+                        "Added remove rounded edges css snippet",
+                        "Added FullScreenSidebar plugin",
+                        "Added support for swiping to toggle member list",
+                        "Added RemoveGifButton plugin",
+                        "Added Ava's css to stop status card from clipping when a user has a long status ",
+                        "Added BetterScrolling plugin (allows you to scroll lower in channel/dm lists so you can actually access the channel/dm at the very bottom)",
+                        "Added css to make member list scrollable (however you have to close the member list then open it again for the css to work)",
+                        "Added MemberListContextMenuFix plugin"
+                    ]
+                },
+                { "type": "spacer" },
+                { "type": "hr" },
+                { "type": "spacer" },
+                { "type": "h2", "text": "Changes" },
+                { "type": "spacer" },
+                {
+                    "type":"ul",
+                    "items":[
+                        "NoAnnoyingToolTips plugin no longer removes badge tooltips",
+                        "Updated to Avia Client 1.7",
+                        "Made avia panels draggable",
+                        "Reduced amount of time required for presses to trigger context menus",
+                        "Removed MobileCSSPlus plugin (its functionality is now integrated into the default quick css editor)",
+                        "AttachmentContextMenuFix plugin now works on non image/video attachments"
+                    ]
+                },
+                { "type": "spacer" },
+                { "type": "hr" },
+                { "type": "spacer" },
+                { "type": "h2", "text": "Fixes" },
+                { "type": "spacer" },
+                {
+                    "type":"ul",
+                    "items":[
+                        "Fixed swipe-sidebar plugin triggering when moving popups horizontally",
+                        "Fixed swipe-sidebar plugin triggering when trying to select text",
+                        "Fixed ChannelContextMenuFix plugin not working on categories (you couldn't long press categories to open the context menu for editing/deleting them previously,now you can)",
+                        "Fixed emoji and gif picker search bars requiring a long press to type in",
+                        "Fixed swipe-sidebar plugin triggering when scrolling in attachments",
+                        "Fixed channel settings button appearing on big user profile popups",
+                        "Fixed whisper not hiding \"Switch to this voice channel\" card",
+                        "Fixed swipe-sidebar causing weird behaviour when swiping with member/pinned messages list or search results open",
+                        "Fixed tapping on a server immediately after loading stoat hiding the sidebar on ipads/tablets",
+                        "Fixed ChunkyMembers not making the member list chunky if it was already open before the plugin loaded",
+                        "Fixed local plugins import button not allowing js files to be selected"
+                    ]
+                }
+            ]
+        }
+    ]
+}
