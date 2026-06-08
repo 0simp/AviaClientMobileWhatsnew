@@ -57,7 +57,8 @@
                         "Fixed swipe-sidebar causing weird behaviour when swiping with member/pinned messages list or search results open",
                         "Fixed tapping on a server immediately after loading stoat hiding the sidebar on ipads/tablets",
                         "Fixed ChunkyMembers not making the member list chunky if it was already open before the plugin loaded",
-                        "Fixed local plugins import button not allowing js files to be selected"
+                        "Fixed local plugins import button not allowing js files to be selected",
+                        "Fixed ChannelContextMenuFix not working on categories"
                     ]
                 }
             ]
