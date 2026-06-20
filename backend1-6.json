@@ -46,7 +46,9 @@
           "type": "ul",
           "items": [
             "ServerListScrollLock now prevents you from accidentally clicking the home button while the scroll lock is active",
-            "Updated to avia client 1.7 (see changelog [here](https://github.com/AvaLilac/for-desktop/releases/tag/1.7.0))"
+            "Updated to avia client 1.7 (see changelog [here](https://github.com/AvaLilac/for-desktop/releases/tag/1.7.0))",
+            "Removed Whisper plugin because it is now integrated into stoat",
+            "Removed SelectMenuFix plugin because stoat fixed their select menus"
           ]
         }
       ]
