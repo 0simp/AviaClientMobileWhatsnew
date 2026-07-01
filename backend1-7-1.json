@@ -1,0 +1,95 @@
+{
+  "entries": [
+    {
+      "date": "July 1, 2026",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/0simp/AviaClientMobile/refs/heads/main/IMG_4687.png",
+          "alt": ""
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h1",
+          "text": "Avia Client"
+        },
+        {
+          "type": "h1",
+          "text": "Mobile 1.7"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "NEW"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Added MessageContextMenuFix plugin",
+            "Added HideSearchbarButton plugin"
+          ]
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "CHANGES"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "ul",
+          "items": [
+           "aviaserverbutton plugin now checks if the \"join stoat lounge\" button exists and if not, creates its own",
+           "Removed ReplaceSearchbar plugin",
+           "Removed FullScreenSettings plugin",
+           "Removed FullScreenSidebar plugin",
+           "Removed BetterScrolling plugin",
+           "Removed CollapseChannelName plugin",
+           "Removed CollapseSettingsSidebar plugin",
+           "Removed GifAutoPlayFix plugin",
+           "HideServerList plugin no longer runs on phones because it isn't needed",
+           "Removed ShiftNewLine plugin",
+           "Removed ShrinkHomeButtons plugin",
+           "Removed HideChatButtonsOnFocus plugin",
+           "swipe-sidebar plugin no longer runs on phones because it isn't needed",
+           "ServerListScrollLock no longer runs on phones because it isn't needed",
+           "Removed the css that fixed the join button in invites going off the screen"
+          ]
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "FIXES"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Fixed ChannelContextMenuFix not working on web 0.10.0",
+            "Fixed MemberContextMenuFix not working on web 0.10.0",
+            "Fixed 3TapReply not working on web 0.10.0",
+            "Long pressing on categories no longer collapses them",
+            "Long pressing on servers no longer causes the page to switch to them",
+            "Long pressing on channels no longer causes the page to switch to them",
+            "Fixed long pressing on channels sometimes triggering the create channel/category context menu as well as their own",
+            "Fixed ServerContextMenuFix triggering while scrolling server list"
+          ]
+        }
+      ]
+    }
+  ]
+}
