@@ -1,7 +1,7 @@
 {
   "entries": [
     {
-      "date": "June 28, 2026",
+      "date": "July 1, 2026",
       "content": [
         {
           "type": "image",
@@ -24,20 +24,6 @@
         },
         {
           "type": "h2",
-          "text": "IMPORTANT NOTE"
-        },
-        {
-          "type": "spacer"
-        },
-        {
-          "type": "paragraph",
-          "text": "**THIS IS A DEVELOPER BUILD, WHICH MEANS  IT MAY BE UNSTABLE. USE AT YOUR OWN RISK!**"
-        },
-        {
-          "type": "spacer"
-        },
-        {
-          "type": "h2",
           "text": "NEW"
         },
         {
@@ -47,7 +33,6 @@
           "type": "ul",
           "items": [
             "Added MessageContextMenuFix plugin",
-            "Added FixUserPopups plugin",
             "Added HideSearchbarButton plugin"
           ]
         },
@@ -100,7 +85,8 @@
             "Long pressing on categories no longer collapses them",
             "Long pressing on servers no longer causes the page to switch to them",
             "Long pressing on channels no longer causes the page to switch to them",
-            "Fixed long pressing on channels sometimes triggering the create channel/category context menu as well as their own"
+            "Fixed long pressing on channels sometimes triggering the create channel/category context menu as well as their own",
+            "Fixed ServerContextMenuFix triggering while scrolling server list"
           ]
         }
       ]
