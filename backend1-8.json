@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "date": "July 5, 2026",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/0simp/AviaClientMobile/refs/heads/main/IMG_4687.png",
+          "alt": ""
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h1",
+          "text": "Avia Client"
+        },
+        {
+          "type": "h1",
+          "text": "Mobile 1.8"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "NEW"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Re added ShiftNewLine plugin",
+            "Added css to make emoji picker scrollable horizontally"
+          ]
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "FIXES"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Fixed MessageContextMenuFix applying to messages in search results"
+          ]
+        }
+      ]
+    }
+  ]
+}
