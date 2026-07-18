@@ -1,7 +1,7 @@
 {
   "entries": [
     {
-      "date": "July 5, 2026",
+      "date": "July 18, 2026",
       "content": [
         {
           "type": "image",
@@ -34,6 +34,23 @@
           "items": [
             "Re added ShiftNewLine plugin",
             "Added css to make emoji picker scrollable horizontally"
+          ]
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "CHANGES"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Updated css that stops status card from clipping when user has long status",
+            "Updated to Avia Client 1.8 (see changelog [here](https://github.com/AvaLilac/for-desktop/releases/tag/1.8.0))"
           ]
         },
         {
