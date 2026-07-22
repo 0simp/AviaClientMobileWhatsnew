@@ -1,0 +1,41 @@
+{
+  "entries": [
+    {
+      "date": "July 22, 2026",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/0simp/AviaClientMobile/refs/heads/main/IMG_4687.png",
+          "alt": ""
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h1",
+          "text": "Avia Client"
+        },
+        {
+          "type": "h1",
+          "text": "Mobile 1.8.1"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "CHANGES"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Version number displayed in settings and tab title are now fetched from window.__ USERSCRIPT_VERSION__"
+          ]
+        }
+      ]
+    }
+  ]
+}
