@@ -17,7 +17,7 @@
         },
         {
           "type": "h1",
-          "text": "Mobile 1.8.1"
+          "text": "Mobile 1.8.2"
         },
         {
           "type": "spacer"
@@ -32,7 +32,7 @@
         {
           "type": "ul",
           "items": [
-            "Version number displayed in settings and tab title are now fetched from window.__ USERSCRIPT_VERSION__"
+            "Version numbers displayed in settings and tab title are now fetched from window.__ USERSCRIPT_VERSION__"
           ]
         }
       ]
