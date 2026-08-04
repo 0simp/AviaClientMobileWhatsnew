@@ -1,0 +1,96 @@
+{
+  "entries": [
+    {
+      "date": "August 4, 2026",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/0simp/AviaClientMobile/refs/heads/main/IMG_4687.png",
+          "alt": ""
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h1",
+          "text": "Avia Client"
+        },
+        {
+          "type": "h1",
+          "text": "Mobile 1.9"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "NEW"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Added aviamobileversion plugin (code for it exised before, but now it's a seperate plugin)"
+          ]
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "CHANGES"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Removed MessageContextMenuFix plugin",
+            "Updated to avia client 1.8.2 (see changelog [here](https://github.com/AvaLilac/for-desktop/releases/tag/1.8.2))",
+            "Removed css that makes emoji picker scrollable horizontally",
+            "Removed aviaserverbutton plugin",
+            "MemberListContextMenuFix plugin now only runs on tablets/ipads",
+            "UnsentMessageContextMenuFix plugin now only runs on tablets/ipads",
+            "Removed EmojiFix plugin (I genuinely have no idea what it even did tbh)",
+            "ChannelContextMenuFix plugin now only runs on ipads/tablets",
+            "ServerContextMenuFix plugin now only runs on ipads/tablets",
+            "Removed FixBanList plugin",
+            "Removed AttachmentContextMenuFix plugin",
+            "Cleaned up unused integrated css/integrated css that idk how to fix",
+            "UnsentMessageContextMenuFix now adds long press support to unsent messages instead of a toolbar",
+            "Removed 3TapReply plugin"
+          ]
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "FIXES"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Fixed scroll lock toggle not injecting on latest stoat version",
+            "Fixed ShrinkEmojis not working on latest stoat version",
+            "Fixed HideUnsentMessages not working on latest stoat version",
+            "Fixed NoAnnoyingTooltips not working on latest stoat version",
+            "Fixed MoveChannelSettingsButton not working on latest stoat version",
+            "Fixed HideSearchBarButton plugin not working on latest stoat version",
+            "Fixed OffScreenAttachmentFix plugin not working on latest stoat version",
+            "Fixed ShrinkGifPanel plugin not working on latest stoat version",
+            "Fixed ChunkyMembers plugin not working on latest stoat version",
+            "Fixed themes panel not getting resized to fit the screen width on phones",
+            "Fixed all integrated css"
+          ]
+        }
+      ]
+    }
+  ]
+}
