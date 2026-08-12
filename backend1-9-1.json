@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "date": "August 11, 2026",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://raw.githubusercontent.com/0simp/AviaClientMobile/refs/heads/main/IMG_4687.png",
+          "alt": ""
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h1",
+          "text": "Avia Client"
+        },
+        {
+          "type": "h1",
+          "text": "Mobile 1.9.1"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "CHANGES"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Updated to avia client 1.8.3 (see changelog [here](https://github.com/AvaLilac/for-desktop/releases/tag/1.8.3))"
+          ]
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h1",
+          "text": "FIXES"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Fixed ServerContextMenuFix not working on latest stoat version",
+            "Fixed NoAnnoyingTooltips removing tooltips that tell you who reacted with an emoji (they dont show up on mobile anyway lol)"
+          ]
+        }
+      ]
+    }
+  ]
+}
